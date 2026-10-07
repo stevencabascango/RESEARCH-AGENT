@@ -1,0 +1,3 @@
+[submodule "vendor/math-skills"]
+	path = vendor/math-skills
+	url = https://github.com/panpanc/math-skills.git
