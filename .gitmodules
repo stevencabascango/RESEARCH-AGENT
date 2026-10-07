@@ -1,3 +1,6 @@
 [submodule "vendor/math-skills"]
 	path = vendor/math-skills
 	url = https://github.com/panpanc/math-skills.git
+[submodule "vendor/scientific-agent-skills"]
+	path = vendor/scientific-agent-skills
+	url = https://github.com/K-Dense-AI/scientific-agent-skills.git
